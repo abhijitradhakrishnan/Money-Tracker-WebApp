@@ -163,6 +163,7 @@ body {
     }
     .sub-container {
         grid-template-columns: 1fr;
+        gap: 1em;
     }
-
+    
 }
